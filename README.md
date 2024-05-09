@@ -1,2 +1,6 @@
-# Knowledge-Enhanced-Prompt-Tuning-for-Event-Coreference-Resolution
-Knowledge Enhanced Prompt Tuning for Event Coreference Resolution
+本项目用以记录ECR任务的实验全过程
+1. 实验数据集
+ACE2005
+KBP系列
+2. 模型设计
+3. 实验记录
